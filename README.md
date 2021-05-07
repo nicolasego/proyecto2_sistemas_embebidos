@@ -4,6 +4,7 @@ Códigos implementados durante el desarrollo del segundo proyecto.
 El presente repositorio presenta codigos en python que permiten la conmutación de pines del  GPIO de la raspberry.
 
 conmutación pin 17 -----> https://github.com/nicolasego/proyecto2_sistemas_embebidos/blob/main/pin17.c
+
 conmutación pin 27 -----> https://github.com/nicolasego/proyecto2_sistemas_embebidos/blob/main/pin27.c
 
 Un script en bash que permite la conmutación de los dos pines mediante el comando &.
